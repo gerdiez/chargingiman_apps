@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#161616</color>
+    <color name="colorPrimaryDark">#691A99</color>
+    <color name="colorAccent">#68EFAD</color>
+
+
+    <color name="colorCheck">#474747</color>
+    <color name="colorUncheck">#474747</color>
+
+    <color name="hitam">#000000</color>
+    <color name="putih">#FFFFFF</color>
+    <color name="abu2">#F0F0F0</color>
+    <color name="abu">#636e72</color>
+    <color name="dracula">#2d3436</color>
+    <color name="citylights">#dfe6e9</color>
+</resources>

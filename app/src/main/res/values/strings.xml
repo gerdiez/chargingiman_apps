@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">doadoa</string>
+
+    <string name="buku">Doa</string>
+    <string name="musik">Jadwal Adzan</string>
+    <string name="film">Ngaji</string>
+    <string name="about">Tentang</string>
+    <string name="fragment_buku">Fragment Buku</string>
+    <string name="fragment_film">Fragment Film</string>
+    <string name="fragment_musik">Fragment Musik</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Coming Soon</string>
+</resources>
