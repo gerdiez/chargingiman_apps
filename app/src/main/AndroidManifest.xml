@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.doadoa">
+    package="com.gerdi.doadoa">
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/chargingimans"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ItemDetails"></activity>
-        <activity android:name=".View.ListDoa" />
-        <activity android:name=".View.recycler" />
-        <activity android:name=".View.MainActivity" />
-        <activity android:name=".View.Splash">
+        <activity android:name="com.gerdi.doadoa.ItemDetails"></activity>
+        <activity android:name="com.gerdi.doadoa.View.ListDoa" />
+        <activity android:name="com.gerdi.doadoa.View.recycler" />
+        <activity android:name="com.gerdi.doadoa.View.MainActivity" />
+        <activity android:name="com.gerdi.doadoa.View.Splash">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
